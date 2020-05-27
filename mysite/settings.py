@@ -25,7 +25,7 @@ SECRET_KEY = '7#&pe08=nur*g5(_s)36u_s+*ll3gw^)h9!43o26!f8c)^$h9@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://sankar3.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1']
 
 
 # Application definition
